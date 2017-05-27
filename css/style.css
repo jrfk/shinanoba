@@ -1,9 +1,9 @@
 html {
   min-height: 100%;
-  background-size: cover; /*ボックス全体をカバーする大きさで表示*/
+  background-size: cover; /*繝懊ャ繧ｯ繧ｹ蜈ｨ菴薙ｒ繧ｫ繝舌�ｼ縺吶ｋ螟ｧ縺阪＆縺ｧ陦ｨ遉ｺ*/
   background-image: url(../images/shinanoba.jpg);
   background-repeat: no-repeat;
-  background-position: center;/*写真の見せたい場所を調整*/
+  background-position: center;/*蜀咏悄縺ｮ隕九○縺溘＞蝣ｴ謇繧定ｪｿ謨ｴ*/
 }
 body{
   min-height:100%;
@@ -25,7 +25,7 @@ p {
   margin: 0 0 0 -10em;
 }
 p span {
-  font: 700 1em/1 "Oswald", sans-serif;
+  font: 700 1em/1 Futura, Century Gothic, sans-serif;
   letter-spacing: 0;
   padding: .25em 0 .325em;
   display: block;
