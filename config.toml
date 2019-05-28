@@ -1,0 +1,28 @@
+baseURL = "http://www.shinanoba.com/"
+languageCode = "en-us"
+title = "shinanoba"
+theme = "aerial"
+
+[params]
+  name = "Shinanoba"
+  about = "web &nbsp;&bull;&nbsp; thihou  &nbsp;&bull;&nbsp; Never asked for this"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
